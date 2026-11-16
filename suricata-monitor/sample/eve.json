@@ -1,0 +1,1 @@
+{"timestamp":"2026-11-04T10:00:00.000000+0000","event_type":"alert","src_ip":"192.168.56.20","src_port":51515,"dest_ip":"192.168.56.10","dest_port":80,"proto":"TCP","alert":{"action":"allowed","signature":"ET INFO Sample IDS alert","category":"Misc activity","severity":2}}
